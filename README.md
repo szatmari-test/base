@@ -29,6 +29,7 @@ The application represents a simple train controller system with the following t
 * Sensor: The sensor can detect the change in the speed limit of the track and can signal in such cases to the controller.
 * Controller: The controller is responsible for controlling the reference speed of the train. The reference speed is set by the user, but the speed limit must also be kept.
 * User: The user can manipulate the reference speed of the train using a joystick.
+* XYZ: xxy
 
 ### Behavior
 
